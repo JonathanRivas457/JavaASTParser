@@ -1,0 +1,12 @@
+{
+  "json_files": [
+    "json_inputs/ExternalFilesEntryLinker.json",
+    "json_inputs/FieldFactory.json",
+    "json_inputs/DefaultTexParserTest.json",
+    "json_inputs/DefaultTexParserTest.json",
+    "json_inputs/CrossRef.json",
+    "json_inputs/ClipboardManager.json",
+    "json_inputs/AutosaveManager.json",
+    "json_inputs/BindingHelper.json"
+  ]
+}
